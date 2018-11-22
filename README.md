@@ -14,4 +14,4 @@
 
 ![ ](https://raw.githubusercontent.com/rajeshwerkushwaha/DigitRecognition/master/img.png)
 
-Note: I really appreciate Aleksei Tiulpin work for creating PyCon2016 repository [here](https://github.com/lext/PyCon2016). 
+**Note:** I really appreciate Aleksei Tiulpin work for creating PyCon2016 repository [here](https://github.com/lext/PyCon2016). 
